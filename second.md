@@ -1,1 +1,1 @@
-the 2nd test file for git intro. (changed again with branch master)
+the 2nd test(change sth with bugfix branch) file for git intro. (changed again with branch master)
